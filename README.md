@@ -1,2 +1,6 @@
 # Test1
-Lab 1
+
+## User Information
+
+Name: Gautam Jethwani
+Email: gdjethwa@usc.edu
